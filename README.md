@@ -4,10 +4,12 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE4NnJ4MG53aWM3dGNsOWpnOTF2emh5ajd5enAwZHJ1ejZ2bXYxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt= coder width="500" />
 </p>
-
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PenguinCluster&label=Profile%20views&color=0e75b6&style=flat" alt="PenguinCluster" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -21,52 +23,42 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
 ---
 
 ## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:info@waspi.online">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joshuaacoconuthead/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="mailto:info@waspi.online"><img src="https://img.shields.io/badge/Gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
 ---
 
 ## 🔧 Technologies & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux" />
-</p>
+  ![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+ ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
 
 ---
 
 ## 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql" />
+   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height=25/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height=25/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height=25/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PenguinCluster&show_icons=true&theme=default" />
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PenguinCluster&show_icons=true&locale=en&layout=compact" alt="PenguinCluster" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinCluster&layout=compact" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PenguinCluster&show_icons=true&locale=en" alt="PenguinCluster" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PenguinCluster&" alt="PenguinCluster" /></p>
 
 ---
 
