@@ -6,7 +6,9 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE4NnJ4MG53aWM3dGNsOWpnOTF2emh5ajd5enAwZHJ1ejZ2bXYxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt= coder width="500" />
 </p>
+
 ---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PenguinCluster&label=Profile%20views&color=0e75b6&style=flat" alt="PenguinCluster" />
 </p>
@@ -31,15 +33,25 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
 ---
 
 ## 🔧 Technologies & Tools
-  ![](https://img.shields.io/badge/code-javascript-blue?logo=javascript)
- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Language-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![](https://img.shields.io/badge/Language-css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+  ![](https://img.shields.io/badge/Language-html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/Language-rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+  ![](https://img.shields.io/badge/Language-typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ ![](https://img.shields.io/badge/Language-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Framework-Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Framework-Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Framework-express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/Framework-vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![](https://img.shields.io/badge/Framework-react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/Hosting-Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![](https://img.shields.io/badge/VCS-Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Container-Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Blockchain-solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
+![](https://img.shields.io/badge/Cloud-Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+
+
 
 ---
 
@@ -49,12 +61,25 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
    <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height=25/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height=25/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height=25/>
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height=25/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height=25/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left"> <img align="left" src="https://github-readme-stats-seven-drab-kf8scugiil.vercel.app/api/top-langs?username=PenguinCluster&show_icons=true&locale=en&layout=compact" alt="PenguinCluster" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats-seven-drab-kf8scugiil.vercel.app/api?username=PenguinCluster&show_icons=true&locale=en" alt="PenguinCluster" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PenguinCluster&" alt="PenguinCluster" /></p>
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=PenguinCluster&" /></p>
+
+<p align="center"> 
+  <img height="165" src="https://github-readme-stats-seven-drab-kf8scugiil.vercel.app/api/top-langs?username=PenguinCluster&show_icons=true&cache_seconds=86400&locale=en&layout=compact&theme=ambient_gradient" />
+  <img height="165" src="https://github-readme-stats-seven-drab-kf8scugiil.vercel.app/api?username=PenguinCluster&show_icons=true&cache_seconds=86400&locale=en&theme=ambient_gradient" />
+</p>
+
+  <p align="center">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenguinCluster&theme=tokyonight" />
+    <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=PenguinCluster&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" />
+
 ---
 
 ## 🎨 Hobbies & Side Projects
