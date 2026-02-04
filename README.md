@@ -31,7 +31,7 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
 ---
 
 ## 🔧 Technologies & Tools
-  ![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+  ![](https://img.shields.io/badge/code-javascript-blue?logo=javascript)
  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
@@ -54,24 +54,7 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PenguinCluster&show_icons=true&theme=default&cache_seconds=86400"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinCluster&layout=compact&theme=default&cache_seconds=86400"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=PenguinCluster&theme=default"
-  />
-</p>
-
-
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PenguinCluster&show_icons=true&locale=en&layout=compact" alt="PenguinCluster" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PenguinCluster&show_icons=true&locale=en" alt="PenguinCluster" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PenguinCluster&" alt="PenguinCluster" /></p>
 ---
 
 ## 🎨 Hobbies & Side Projects
