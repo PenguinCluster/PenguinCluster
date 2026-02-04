@@ -71,14 +71,14 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=PenguinCluster&" /></p>
 
-<p align="center"> 
-  <img height="165" src="https://github-readme-stats-seven-drab-kf8scugiil.vercel.app/api/top-langs?username=PenguinCluster&show_icons=true&cache_seconds=86400&locale=en&layout=compact&theme=ambient_gradient" />
-  <img height="165" src="https://github-readme-stats-seven-drab-kf8scugiil.vercel.app/api?username=PenguinCluster&show_icons=true&cache_seconds=86400&locale=en&theme=ambient_gradient" />
-</p>
-
   <p align="center">
     <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=PenguinCluster&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" />
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenguinCluster&theme=tokyonight" /></p>
+
+  <p align="center"> 
+  <img height="165" src="https://github-readme-stats-seven-drab-kf8scugiil.vercel.app/api/top-langs?username=PenguinCluster&show_icons=true&cache_seconds=86400&locale=en&layout=compact&theme=ambient_gradient" />
+  <img height="165" src="https://github-readme-stats-seven-drab-kf8scugiil.vercel.app/api?username=PenguinCluster&show_icons=true&cache_seconds=86400&locale=en&theme=ambient_gradient" />
+</p>
 
 ---
 
