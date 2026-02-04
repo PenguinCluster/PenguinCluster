@@ -77,8 +77,8 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
 </p>
 
   <p align="center">
-    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenguinCluster&theme=tokyonight" />
-    <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=PenguinCluster&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" /></p>
+    <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=PenguinCluster&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenguinCluster&theme=tokyonight" /></p>
 
 ---
 
