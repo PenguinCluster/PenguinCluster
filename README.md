@@ -54,11 +54,23 @@ A Data Front-End and Back-End developer, Product Manager and Innovator | Passion
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PenguinCluster&show_icons=true&locale=en&layout=compact" alt="PenguinCluster" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PenguinCluster&show_icons=true&theme=default&cache_seconds=86400"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinCluster&layout=compact&theme=default&cache_seconds=86400"
+    height="165"
+  />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PenguinCluster&show_icons=true&locale=en" alt="PenguinCluster" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PenguinCluster&" alt="PenguinCluster" /></p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=PenguinCluster&theme=default"
+  />
+</p>
+
 
 ---
 
